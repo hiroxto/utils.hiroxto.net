@@ -6,6 +6,9 @@ Utility site for me.
 
 [utils.hiroxto.net](https://utils.hiroxto.net)
 
+> [!NOTE]
+> [hiroxto/hiroxto.net](https://github.com/hiroxto/hiroxto.net)へ統合しました。
+
 ## Build Setup
 
 ``` bash
